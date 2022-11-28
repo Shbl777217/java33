@@ -285,9 +285,9 @@ background-color:#000;}
 
 
 
-$(`<style>.nosel.d-flex.room.r184a7b801bfx2f7f1422-x-nsb1hm .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000 ;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
+$(`<style>.nosel.d-flex.room.r184a7b801bfx2f7f1422-x-nsb1hm .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #fff ;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
 
-.nosel.d-flex.room.r184a7b801bfx2f7f1422-x-nsb1hm .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000 ;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
+.nosel.d-flex.room.r184a7b801bfx2f7f1422-x-nsb1hm .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff ;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
 
 
     .nosel.d-flex.room.r184a7b801bfx2f7f1422-x-nsb1hm.bord {border-inline: 4px solid #484848 !important;
