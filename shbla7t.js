@@ -7,7 +7,7 @@ $(`<style>.nosel.d-flex.room.r184a63e7582xcda93be-xpl6ock .label-primary {backgr
     .nosel.d-flex.room.r184a63e7582xcda93be-xpl6ock {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2022/11/166965422138021.gif);
+    background-image: url(https://up6.cc/2022/11/166965558659281.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
