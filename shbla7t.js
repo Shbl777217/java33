@@ -826,7 +826,6 @@ background-color:#000;}
 
 
 
-
 $(`<style>.nosel.d-flex.room.r18418287746x679aeb75-xrdbn8.bord {border-inline: 4px solid #000 !important;}
 
 .nosel.d-flex.room.r18418287746x679aeb75-xrdbn8 {display: inline-block;
@@ -1120,7 +1119,7 @@ background-size: 220% auto;-webkit-background-clip: text;
 
     @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
-    var roomiddal='1825a3da62dx31ab0cf4-xdcpq07';
+    var rid='1825a3da62dx31ab0cf4-xdcpq07';
     
 
 
