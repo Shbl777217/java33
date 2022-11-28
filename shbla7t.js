@@ -1194,7 +1194,7 @@ background-color: #000;}
     #users.mos1 .uzr .u-msg{
         -webkit-background-clip: text;
 -webkit-text-fill-color: #0000;
-background-image: linear-gradient(225deg,#d80000 0%,#000 29%,#3e0000 67%,#131212 100%);}
+background-image: linear-gradient(225deg,#d80000 0%,#000 50%,#e80000 67%,#000 80%);}
 
     #users.mos1 .inroom.uzr span.uhash{
     text-transform:uppercase;
@@ -1233,7 +1233,7 @@ background-image: linear-gradient(225deg,#d80000 0%,#000 29%,#3e0000 67%,#131212
         background-color: #ff000014!important;
 }
 
-#d2.admn2 .uzr.d-flex.mm.hmsg {
+#d2.mos2 .uzr.d-flex.mm.hmsg {
         background-color: #cb000014!important;}
 
 
