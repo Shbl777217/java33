@@ -1304,3 +1304,260 @@ border-bottom:1px solid transparent;}
         } 
     }, 10);
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(`<style>.nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7 .label-primary {background-image: url(https://up6.cc/2022/12/167053696758611.gif);
+	background-size: 100%; letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 10px 0px 10px 0px !important;
+	box-shadow: 0px 0px 2px 2px #b4b4b463;}
+
+.nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-image: url(https://up6.cc/2022/12/167053696758611.gif);
+	background-size: 100%;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 10px 0px 10px 0px!important;background-image: url(https://up6.cc/2022/12/167053696758611.gif);
+	background-size: 100%;
+	box-shadow: 0px 0px 2px 2px #be0000;}
+
+
+    .nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7.bord {border-inline: 4px solid #008236 !important;}
+    .nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7 {
+    border-radius: 0px 10px 0px 10px;
+    display: inline-block;
+    background-image: url(https://up6.cc/2022/12/167053556393811.gif);
+	background-size: 100%;
+	padding: 5px !important;
+    }
+    .nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7 .dots.mini.u-msg {
+    text-align: center;
+    -webkit-text-fill-color: #ffffff;
+    background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #fff 67%, #fff 100%);background-size: 100% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
+    }
+    .nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7 .fitimg.u-pic.borderg{border-radius: 0px 15px 0px 15px;border: 2px solid #008236;
+	
+	box-shadow: 0px 0px 4px 4px ##0a7235a1;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;margin-bottom: 25% !important;
+	margin-right: 5% !important;}
+    .nosel.d-flex.room.r18374ea2ea2x732b5792x-1auam7 .u-topic.dots {
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 19px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: linear-gradient(-225deg, #fff 0%, #ffffff 29%, #fff 67%, #ffffff 100%);background-size: 100% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
+    background-size: 100% 100%;
+    margin-top: -2px;
+    margin-left: 5px;}
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
+    var rid='18374ea2ea2x732b5792x-1auam7';
+
+ $(`<style>#mic.kwt3 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #008236 0%, #fff 29%, #fff 67%, #008236 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #e3e3e3;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }</style>`).insertBefore('body');
+
+
+
+
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #fff 0%, #008236 29%, #860b0e 67%, #000 100%);
+
+background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
+}`);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #fff 0%, #008236 29%, #860b0e 67%, #000 100%);
+background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
+}`);
+
+
+
+    $("style").last().append(`
+    
+    #users.kwt1 .inroom.uzr img.ustat {
+      width: 54px !important;
+      border-radius: 0px 15px 0px 15px;
+      height: 52px;
+      margin-top: -1px;
+      min-height: 0% !important;
+    }
+    #users.kwt1 .inroom.uzr .fitimg.u-pic {
+      border-radius: 0px 15px 0px 15px;
+    margin-top: 0px;
+    z-index: 0;
+    margin-left: -51px;
+    min-width: 50px;
+    width: 50px;
+    min-height: 48px;
+    max-height: 50px;
+    }
+
+    #d2.kwt2 .uzr .fitimg.u-pic{
+    border: 2px solid #008236 ;
+        
+        --angle: 0deg;
+        border-radius: 0px 15px 0px 15px;
+        background-color: #e3e3e3;
+       
+       
+    ;}
+    #users.kwt1 .uzr .u-msg{
+        -webkit-text-fill-color: #0000;
+        text-transform:uppercase;
+        background-image: linear-gradient(-225deg, #000 10%, #860b0e 29%, #000 50%, #008236 100%);background-size: 100% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
+    background-size: 100% 100%;}
+
+    #users.kwt1 .inroom.uzr span.uhash{
+    text-transform:uppercase;
+    background-image: linear-gradient(270deg, #ffff,  #008236);
+    background-size:220% auto;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
+    display:inline-block;}
+    
+    #users.kwt1 .uzr {
+        background-color: #0000 !important;}
+      #users.kwt1 {
+        background-image: url("https://up6.cc/2022/12/167053616848322.gif");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+
+
+    
+
+    #users.kwt1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    #d2.kwt2 {
+        background-color: #f5f5f5 !important;
+        background-image: url("https://up6.cc/2022/12/167053616842591.gif");
+        background-size: cover;
+    
+    }
+    #chats.kwt5 {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://up6.cc/2022/12/167053616848322.gif");
+      background-size: cover;
+  }
+
+    }
+    #d0.kwt {background-color: #f6f6f6;}
+    #d0.kwt .label-primary {background-color: #be0000;}
+	#d0.kwt .bg {background-color: #278900;}
+    
+    #settings.kwt4 .label-primary {background-color: #278900 !important;}
+
+    #rooms.kwt4 .label-primary {background-color: #278900 !important;}
+
+    #rooms.kwt4 {
+        background-image: url("https://up6.cc/2022/12/167053616848322.gif");
+        background-size: cover;
+        background-color: #f5f5f5 !important;} 
+
+		#d2.kwt2 .uzr.d-flex.mm.hmsg {
+        background-color: #ff000021!important;
+}
+
+	#d2.kwt2 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #14a40024!important;
+}
+
+
+
+
+
+
+
+
+#d2bc.kwt6.d2.light.d2bc.flex-grow-1.break {
+  background-image: url("https://up6.cc/2022/12/167053616848322.gif");
+  background-size: cover;
+  background-color: #f5f5f5 !important;} 
+
+#users .uzr.stl1 .u-msg{
+background-color:#000;}
+
+
+
+
+#dpnl.kwt9 .nosel.ninr.fl.uzr.label.bg {
+
+
+    background-color: #be0000 !important;
+  }
+#dpnl.kwt9.bg {
+
+
+    background-color: #278900 !important;
+  }
+`);
+
+
+    
+         
+         
+    var roomkwttest = false;
+    
+    setInterval(function () {
+        if (myroom == '18374ea2ea2x732b5792x-1auam7') {
+            if (roomkwttest == false) {
+                roomkwttest = true;
+              $('#users').addClass('kwt1');
+                $('#d2').addClass('kwt2');
+                $('#mic').addClass('kwt3');
+                $('#settings').addClass('kwt4');
+                $('#rooms').addClass('kwt4');
+                $('#d0').addClass('kwt');
+                $('#chats').addClass('kwt5');
+                $('#d2bc').addClass('kwt6');
+				$('#users').addClass('stl1');
+				$('#dpnl').addClass('kwt7');
+				$('#dpnl').addClass('kwt9');
+            }
+        } else {
+            if (roomkwttest == true) {
+                roomkwttest = false;
+                $("#users").removeClass('kwt1');
+                $("#d2").removeClass('kwt2');
+                $('#mic').removeClass('kwt3');
+                $('#settings').removeClass('kwt4');
+                $('#rooms').removeClass('kwt4');
+                $('#d0').removeClass('kwt');
+                $('#chats').removeClass('kwt5');
+                $('#d2bc').removeClass('kwt6');
+				$('#users').removeClass('stl1');
+				$('#dpnl').removeClass('kwt7');
+				$('#dpnl').removeClass('kwt9');
+            } 
+        } 
+    }, 10);
+  
