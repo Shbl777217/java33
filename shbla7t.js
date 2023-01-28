@@ -1738,3 +1738,137 @@ var l_itvkhil=setInterval(function(){
      
 		
 
+$("style").last().append(`
+
+
+
+#users .uzr.mhr span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#000;
+    display:inline-block;}
+
+
+#users .uzr.mhr img.u-ico {
+    
+     margin-left: 9px;
+      
+    }
+
+#users .uzr.mhr img.ustat {
+      width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
+
+#users .uzr.mhr .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+margin-bottom: 9px !important;
+padding: 27px !important;
+border:1px solid #ef8699;margin-top:2px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #e77c86
+}
+
+#users .uzr.mhr .u-msg {
+	text-align: center;
+  -webkit-background-clip: text;
+  
+  font-size: 93% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/01/167372373524881.gif);
+  padding: 0px !important;
+	margin-bottom: 20px !important;
+margin-left: 10px;
+background-size: cover;
+margin-top: 12px !important;
+
+}
+
+
+
+
+
+#users .uzr.mhr {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 0px 17px 0px 17px;
+  background-image: 
+  border: 1px solid #fff;
+background-image: url(https://up6.cc/2023/01/167485644294121.png);
+background-size: 100%;
+}
+
+
+
+#users .uzr.mhr .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.mhr .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 5px;
+}
+
+#users .uzr.mhr .My_starmhrh {
+ width: 76px;
+height: 72px;
+margin-top: -35px;
+cursor: pointer;
+margin-left: -40px;
+}
+
+
+#users .uzr.mhr .My_vedio11 {
+  float: right;
+  width: 20px;
+  margin-top: 1px;
+  margin-right: 0px;
+  cursor: pointer;
+}
+
+
+`);
+
+var l_itvmhr=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvmhr);
+       $("#users .uzr:contains('*المهره')").addClass('mhr');
+		
+		$("#users .uzr span.u-topic:contains('*المهره')").after('<img id="mystory" class="My_vedio11" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+		
+		
+        $("#users .uzr.mhr .fitimg.u-pic").append('<img class="My_starmhrh" title="اطاري" src="https://up6.cc/2023/01/167485644295732.png">');
+		
+		
+		$("#users .uzr.mhr span.uhash, #users .uzr.mhr img.co").hide(); 
+
+
+        $("#upro").before('<div id="movon" onclick="$(this).hide().html(``);" class="moveon" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        
+        
+        
+        $("div#users .uzr:contains('*المهره') .My_vedio11").click(function(){
+        $("#movon").show();
+        
+        $('#movon').addClass('mhr');
+        $("#movon").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
+        $("#movon").append('<iframe id="ifr_mov11" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/L8V8AASAmMU" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+       $("#ifr_mov11").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+    }
+}, 20000);
+
+
+
+     
+		
